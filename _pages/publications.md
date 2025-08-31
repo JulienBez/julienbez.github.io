@@ -17,6 +17,16 @@ author_profile: true
 
 ---
 
+## 2025
+
+* Julien Bezançon and Gaël Lejeune. For a fistful of puns: Evaluating a puns in multiword expressions identification algorithm without dedicated dataset. In Findings of the 2025 Conference on Empirical Methods in Natural Language Processing (main: 22.16 acceptance rate, findings: 17.35 acceptance rate), 2025 (to-be-published)
+
+* Julien Bezançon, Félix Alié, Antoine Gautier, Marceau Hernandez, and Gaël Lejeune. Forbidden fruit is the sweetest: An annotated tweet corpus for french unfrozen idioms identification. In Amir Zeldes and Ines Rehbein, editors, Proceedings of the 19th Linguistic Annotation Workshop (LAW-XIX), Vienna, Austria, juillet 2025. Association for Computational Linguistics <a target="_blank" href="https://aclanthology.org/2025.law-1.6/"> → </a> <br> <br>
+
+* Julien Bezançon, Rimane Karam, and Gaël Lejeune. Lost in variation: An unsupervised methodology for mining lexico-syntactic patterns in middle Arabic texts. In Proceedings of the 4th Workshop on Arabic Corpus Linguistics (WACL-4), pages 25–37, Abu Dhabi, UAE, janvier 2025. Association for Computational Linguistics <a target="_blank" href="https://aclanthology.org/2025.wacl-1.3/"> → </a> <br> <br>
+
+---
+
 ## 2024
 
 * Karen Fort, Laura Alonso Alemany, Luciana Benotti, Julien Bezançon, Claudia Borg, Marthese Borg, Yongjian Chen, Fanny Ducel, Yoann Dupont, Guido Ivetta, Zhijian Li, Margot Mieskes, Marco Naguib, Yuyan Qian, Matteo Radaelli, Wolfgang S. Schmeisser-Nieto, Emma Raimundo Schulz, Thiziri Saci, Sarah Saidi, Javier Torroba Marchante, Shilin Xie, Sergio E. Zanotto, and Aurélie Névéol. Your Stereotypical Mileage May Vary: Practical Challenges of Evaluating Biases in Multiple Languages and Cultural Contexts. In Nicoletta Calzolari, Min-Yen Kan, Veronique Hoste, Alessandro Lenci, Sakriani Sakti, and Nianwen Xue, editors, Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 17764–17769, Torino, Italia, mai 2024. ELRA and ICCL <a target="_blank" href="https://aclanthology.org/2024.lrec-main.1545/"> → </a> <br> <br>
