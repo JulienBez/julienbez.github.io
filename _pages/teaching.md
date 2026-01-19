@@ -13,7 +13,7 @@ author_profile: true
 
 ---
 
-## Algorithme et structure de données (2023)
+## Algorithme et structure de données (2024)
 
 *Undergraduate course* - Paris, France \
 hourly volume : 10 (last updated in 2023). Course material by Christian Vincent.
